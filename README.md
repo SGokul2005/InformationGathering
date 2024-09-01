@@ -98,7 +98,5 @@ sudo traceroute  www.saveetha.ac.in
 
 
 
-
-
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
