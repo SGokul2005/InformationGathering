@@ -64,21 +64,12 @@ nmap -p 21 -sV --script=banner ftp.vim.org
 ![Screenshot (11)](https://github.com/user-attachments/assets/efada7ba-aca5-46ae-bdc2-896804116dbe)
 
 ## Whatweb:
-```
-whatweb infosys.com
-```
-```
-whatweb zoho.com
-```
-```
-whatweb -v -a 3 172.17.52.201
-```
+
 ## Output:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/13003241-f18f-4e84-b15d-86a327e9c68c)
+![Screenshot (14)](https://github.com/user-attachments/assets/29ff1497-7aa4-47d2-823f-36e92a718157)
+
 ## httprint:
-```
-httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
-```
+
 ## Output:
 ![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/e1275ae0-7aef-43d9-a8bf-99be791d0070)
 ## Tracing the Location:
