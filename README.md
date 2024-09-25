@@ -54,13 +54,15 @@ https://web.archive.org/
 nc 172.17.52.118 80
 ```
 ## Output:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/2f794aca-900f-4e44-b5e4-9eff031425ab)
+![Screenshot (12)](https://github.com/user-attachments/assets/945b291e-cdb7-44ac-b332-a5f8977fb8b2)
+
 ## nmap:
 ```
 nmap -p 21 -sV --script=banner ftp.vim.org
 ```
 ## Output:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/f8eebdf9-67ff-42c0-ae3b-b126d20576bb)
+![Screenshot (11)](https://github.com/user-attachments/assets/efada7ba-aca5-46ae-bdc2-896804116dbe)
+
 ## Whatweb:
 ```
 whatweb infosys.com
@@ -82,13 +84,13 @@ httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
 ## Tracing the Location:
 ## TCP Traceroute:
 ```
-sudo traceroute -T www.saveetha.ac.in
+sudo traceroute -T www.youtube.com
 ```
 ## Output:
 ![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/67469d67-bba1-4fa1-925d-1bc35c4146ca)
 ## UDP Traceroute:
 ```
-sudo traceroute -U www.saveetha.ac.in
+sudo traceroute -U www.youtube.com
 ```
 ## Output:
 ![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/6f980827-c16f-4865-afff-1de0714937fd)
