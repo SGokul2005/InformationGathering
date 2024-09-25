@@ -88,7 +88,7 @@ sudo traceroute -U www.youtube.com
 
 ## ICMP Traceroute:
 ```
-sudo traceroute  www.saveetha.ac.in
+sudo traceroute  www.youtube.com
 ```
 ## Output:
 ![Screenshot (17)](https://github.com/user-attachments/assets/38f320b2-39cb-4a18-b90c-6923652c1b1a)
