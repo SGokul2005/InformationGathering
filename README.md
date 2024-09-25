@@ -28,7 +28,8 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 
 ## OUTPUT:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/a2b13e20-b504-4901-a35d-1d53247726af)
+![Screenshot 2024-09-25 084750](https://github.com/user-attachments/assets/467531ad-15f3-41d5-ad2f-e854867e657c)
+
 ## Finding IP adress:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
 ```
