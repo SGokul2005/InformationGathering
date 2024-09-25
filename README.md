@@ -35,7 +35,8 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ping saveetha.ac.in
 ```
 ## Output:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/0f9a3d5c-ae8c-4d1b-a4f5-2a025ed498a5)
+![Screenshot (23)](https://github.com/user-attachments/assets/b7a8269c-3fbf-490c-a3e0-e14bb9ac8b6c)
+
 ## Finding Hosting Company:
 get further detail by using ip2location.com website.
 
