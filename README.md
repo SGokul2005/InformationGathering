@@ -42,7 +42,8 @@ ping saveetha.ac.in
 get further detail by using ip2location.com website.
 
 ## Output:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/bbf4095f-00d4-49b8-a950-ddd504d0d81e)
+![Screenshot 2024-09-23 152156](https://github.com/user-attachments/assets/eed68598-9032-4b5b-a82b-d3da1d4452b4)
+
 ## History of the wbsite:
 ## Output:
 https://web.archive.org/
