@@ -68,29 +68,29 @@ nmap -p 21 -sV --script=banner ftp.vim.org
 ## Output:
 ![Screenshot (14)](https://github.com/user-attachments/assets/29ff1497-7aa4-47d2-823f-36e92a718157)
 
-## httprint:
 
-## Output:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/e1275ae0-7aef-43d9-a8bf-99be791d0070)
 ## Tracing the Location:
 ## TCP Traceroute:
 ```
 sudo traceroute -T www.youtube.com
 ```
 ## Output:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/67469d67-bba1-4fa1-925d-1bc35c4146ca)
+![Screenshot (16)](https://github.com/user-attachments/assets/65ca1b44-362f-4a24-8dae-064710c677eb)
+
 ## UDP Traceroute:
 ```
 sudo traceroute -U www.youtube.com
 ```
 ## Output:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/6f980827-c16f-4865-afff-1de0714937fd)
+![Screenshot (17)](https://github.com/user-attachments/assets/8f8be086-abc0-4747-b8ee-1dc891b607fe)
+
 ## ICMP Traceroute:
 ```
 sudo traceroute  www.saveetha.ac.in
 ```
 ## Output:
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/5b0e049e-98ee-4849-ad1c-de8d8189927e)
+![Screenshot (17)](https://github.com/user-attachments/assets/38f320b2-39cb-4a18-b90c-6923652c1b1a)
+
 
 
 
