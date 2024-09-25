@@ -47,8 +47,10 @@ get further detail by using ip2location.com website.
 ## History of the wbsite:
 ## Output:
 https://web.archive.org/
-![image](https://github.com/gokul-sureshkumar/InformationGathering/assets/121148715/f5166239-895a-4e51-924a-1771ccea3ec8)
-## Web server Fingerprint:
+
+![Screenshot 2024-09-23 152254](https://github.com/user-attachments/assets/b03729ca-85d4-4f69-bee8-d4180461184f)
+
+
 ## Netcat:
 ```
 nc 172.17.52.118 80
