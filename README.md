@@ -91,7 +91,9 @@ sudo traceroute -U www.youtube.com
 sudo traceroute  www.youtube.com
 ```
 ## Output:
-![Screenshot (17)](https://github.com/user-attachments/assets/38f320b2-39cb-4a18-b90c-6923652c1b1a)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/cede92d1-76f8-4825-8204-9cca3fb2e0c4)
+
 
 
 
